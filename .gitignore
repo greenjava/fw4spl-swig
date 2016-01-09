@@ -1,0 +1,9 @@
+# vim swap file
+*.swp
+# eclipse stuff
+*.cproject
+*.project
+*.pyc
+*.pyo
+# qt creator
+*.user
